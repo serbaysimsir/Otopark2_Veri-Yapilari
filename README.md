@@ -1,2 +1,6 @@
-# Otopark2_Veri-Yapilari
-Veri Yapıları Otopark Projesi 2
+# Yığın, Dairesel Bağlı Liste ve Kuyruk Tabanlı Otopark Benzetimi
+  Bir otoparkta bulunan arabaların iş çıkışında durumlarını gözlemlemek için bir benzetim programı geliştirilmesi amaçlanmaktadır. Otomobiller, otoparkın zemin katında (1. Kat) bir kuyruk, bodrum (yer altı katında) bir yığıt ve ikinci katında ise bir dairesel bağlı liste düzeninde yerleştirilerek çıkabilmektedir. <br/> <br/>
+  Arabalar otoparktan birer birer ve sadece birinci kattan çıkabilmektedir. Ardından, %50 ihtimalle bodrum, %50 ihtimalle ise ikinci kattan gelen bir taşıt, birinci kattaki kuyruğa eklenmektedir. Sadece arabaların, bağlı liste düzeninde yerleştirildiği kattan inecek araba, “Josephus problemi” benzeri n adet araba atlanarak seçilmektedir ve bağlı listelerde kalınan yer tutulmaktadır.
+* Tüm veri yapılarına 15’er adet araba yerleştiriniz ve listeyi ekrana yazdırınız. Arabaların her birinin farklı renklerde olduğunu düşünüp Renkleri (Kırmızı, Yeşil, Mavi,… gibi) “text” olarak temsil edebilirsiniz.
+* Tüm arabalar bitene kadar yukarıda anlatılan işlemi tekrarlayınız ve her turda, katlarda kalanların, silinenlerin renklerini ekrana yazdırınız. Son kalan arabanın rengini belirtiniz.
+* Kullandığınız bilgisayarın 5 saniyede ortalama kaç adet otopark problemi çözebildiğini hesaplatınız.
